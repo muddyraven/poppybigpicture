@@ -647,6 +647,15 @@ input, select, textarea {
 
 		}
 
+/* Make Say Hello purple */
+.purple {
+	color: #a20ec0;
+}
+
+.light-purple {
+	color: #d467c6;
+}
+
 /* Button */
 
 	input[type="button"],
